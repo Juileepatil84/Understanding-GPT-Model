@@ -19,7 +19,7 @@ Imagine trying to understand a long story. You can't just read it straight throu
 5. **Predicting Next Steps**: Based on its understanding, it can predict what words might come next.
 
 ## Transformer Architecture Details
-![Transformer Architecture](path/to/your/image.png)
+![Transformer Architecture](https://github.com/Juileepatil84/Understanding-GPT-Model/blob/main/Transformer%20Architecture.png)
 
 The transformer has two main parts: the encoder and the decoder.
 
