@@ -4,6 +4,8 @@
 
 The transformer architecture was introduced by researchers at Google’s Brain division in their 2017 paper "Attention Is All You Need." This development revolutionized NLP, leading to the creation of large language models (LLMs) that outperformed previous recurrent neural networks (RNNs). Transformers have excelled in tasks like machine translation, sentiment analysis, question answering, and text summarization, setting new standards and opening up exciting possibilities in AI-driven language tasks.
 
+For a detailed visual explanation, watch this [YouTube video](https://youtu.be/927tHOy-I7U).
+
 ## Understanding Transformers in Simple Terms
 
 Before diving into the details, let's use an analogy to understand how transformers work.
